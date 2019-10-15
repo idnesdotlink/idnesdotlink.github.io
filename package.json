@@ -12,9 +12,11 @@
     "@gridsome/plugin-google-analytics": "^0.1.0",
     "@gridsome/plugin-sitemap": "^0.2.1",
     "@gridsome/remark-prismjs": "^0.1.0",
-    "@gridsome/source-filesystem": "^0.5.0",
-    "@gridsome/transformer-remark": "^0.3.2",
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.3.4",
     "gh-pages": "^2.1.1",
-    "gridsome": "0.6.9"
+    "gridsome": "0.6.9",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^2.9.7"
   }
 }
